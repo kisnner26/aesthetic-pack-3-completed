@@ -17,7 +17,13 @@ vertical / horizontal / both diagonal resize, move, precision (cross), alternate
 
 See `preview/new-cursors.png`.
 
-## Install
+## Download (easiest)
+
+**[Aesthetic-Pack-3-Installer.exe](https://github.com/kisnner26/aesthetic-pack-3-completed/releases/latest/download/Aesthetic-Pack-3-Installer.exe)** — one-click installer, no admin needed. It backs up your current cursors first; run it with `/restore` to go back. Windows SmartScreen may warn because it is unsigned: *More info → Run anyway*.
+
+All releases: <https://github.com/kisnner26/aesthetic-pack-3-completed/releases>
+
+## Manual install
 
 1. Download / clone this repo.
 2. Right-click `cursors/install.inf` → **Install**.
