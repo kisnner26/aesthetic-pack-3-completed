@@ -1,0 +1,50 @@
+﻿[Hand]
+Path=Aesthetic Link Select.cur
+
+[Arrow]
+Path=Aesthetic normal select.cur
+
+[Help]
+Path=Aesthetic help select.ani
+
+[AppStarting]
+Path=Aesthetic working n background.ani
+
+[Wait]
+Path=Aesthetic busy.ani
+
+[IBeam]
+Path=Aesthetic text select.ani
+
+[No]
+Path=Aesthetic unvailable select.ani
+
+[NWPen]
+Path=Aesthetic Handwriting.cur
+
+[SizeNS]
+Path=Aesthetic vertical resize.cur
+
+[SizeWE]
+Path=Aesthetic horizontal resize.cur
+
+[SizeNWSE]
+Path=Aesthetic diagonal resize 1.cur
+
+[SizeNESW]
+Path=Aesthetic diagonal resize 2.cur
+
+[SizeAll]
+Path=Aesthetic move.cur
+
+[Cross]
+Path=Aesthetic precision select.cur
+
+[UpArrow]
+Path=Aesthetic alternate select.cur
+
+[Person]
+Path=Aesthetic person select.cur
+
+[Pin]
+Path=Aesthetic location select.cur
