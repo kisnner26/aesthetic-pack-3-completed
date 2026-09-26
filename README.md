@@ -1,4 +1,4 @@
-# Aesthetic pack 3 (completed) 🌸
+# Aesthetic pack 3 (completed)
 
 Pastel-pink pixel-art cursor set for Windows.
 
@@ -11,7 +11,7 @@ All original cursors (normal, link, help, text, working, busy, unavailable, hand
 
 ## What I added
 
-The original pack was incomplete (8 of 17 roles). I drew the 9 missing cursors in the same style (32×32, same palette, small heart):
+The original pack was incomplete (8 of 17 roles). I (Kisnner Obando, [@kisnner26](https://github.com/kisnner26)) drew the 9 missing cursors in the same style (32×32, same palette, small heart):
 
 vertical / horizontal / both diagonal resize, move, precision (cross), alternate (up arrow), person, location.
 
